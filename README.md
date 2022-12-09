@@ -1,6 +1,6 @@
 # CMSC320_Final_Project
 **Authors**: 
-Noah Cubert \n
+Noah Cubert \\
 Mads Andersen
 
 ## Torturial on classification of chest x-ray images
